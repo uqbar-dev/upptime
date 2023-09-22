@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 604,
-    "timeWeek": 756,
+    "timeWeek": 713,
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://www.uqbar.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.uqbar.com.br.ico",
     "slug": "plataforma-uqbar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 158,
+    "time": 280,
+    "timeDay": 289,
     "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "timeMonth": 280,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   }
 ]
