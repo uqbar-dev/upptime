@@ -7,6 +7,11 @@ sites:
     url: https://eventos.uqbar.com.br/
   - name: Plataforma Uqbar
     url: https://www.uqbar.com.br
+  - name: LP Uqbar
+    url: https://lp.uqbar.com.br
+  - name: Uqbar Sentry
+    url: http://sentrysrv.uqbaronline.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
