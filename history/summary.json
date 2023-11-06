@@ -4,18 +4,20 @@
     "url": "https://eventos.uqbar.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/eventos.uqbar.com.br.ico",
     "slug": "uqbar-day-2023",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1029,
     "timeDay": 861,
     "timeWeek": 1229,
-    "timeMonth": 1137,
+    "timeMonth": 1127,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-06": 0
+    }
   },
   {
     "name": "Plataforma Uqbar",
@@ -31,7 +33,7 @@
     "time": 303,
     "timeDay": 145,
     "timeWeek": 359,
-    "timeMonth": 312,
+    "timeMonth": 308,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2023-09-22": 22
@@ -43,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp.uqbar.com.br.ico",
     "slug": "lp-uqbar",
     "status": "up",
-    "uptime": "89.36%",
+    "uptime": "89.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "89.36%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "89.65%",
     "time": 352,
     "timeDay": 240,
     "timeWeek": 433,
-    "timeMonth": 352,
+    "timeMonth": 351,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2023-10-09": 1163,
@@ -74,7 +76,7 @@
     "time": 560,
     "timeDay": 361,
     "timeWeek": 670,
-    "timeMonth": 560,
+    "timeMonth": 549,
     "timeYear": 560,
     "dailyMinutesDown": {}
   }
