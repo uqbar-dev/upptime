@@ -1,7 +1,7 @@
 url: https://www.uqbar.com.br
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2023-12-06T23:14:45.688Z
+status: down
+code: 503
+responseTime: 429
+lastUpdated: 2023-12-07T23:14:36.500Z
 startTime: 2023-09-15T12:57:30.369Z
 generator: Upptime <https://github.com/upptime/upptime>
