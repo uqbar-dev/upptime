@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2024-01-10": 1236,
+      "2024-01-10": 1245,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -137,19 +137,19 @@
     "url": "http://sentrysrv.uqbaronline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sentrysrv.uqbaronline.com.ico",
     "slug": "uqbar-sentry",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
-    "time": 539,
-    "timeDay": 269,
-    "timeWeek": 512,
-    "timeMonth": 504,
-    "timeYear": 539,
+    "time": 542,
+    "timeDay": 554,
+    "timeWeek": 553,
+    "timeMonth": 514,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-01-10": 0,
+      "2024-01-10": 9,
       "2023-11-21": 91
     }
   }
