@@ -68,7 +68,7 @@
     "url": "http://sentrysrv.uqbaronline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sentrysrv.uqbaronline.com.ico",
     "slug": "uqbar-sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -80,6 +80,7 @@
     "timeMonth": 464,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2024-08-29": 0,
       "2024-05-31": 1020,
       "2024-05-30": 1440,
       "2024-05-29": 470,
