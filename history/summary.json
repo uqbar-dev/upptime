@@ -4,7 +4,7 @@
     "url": "https://www.tlon.com.br/index.php?option=com_widgets&usrid=0GZYWbGpezpMMLkcOBVUnDeIgxtaTKAOQzh&usrkey=h2nxBiINVtYxDZOXIr3qYufZipZwBt9iQnB",
     "icon": "https://icons.duckduckgo.com/ip3/www.tlon.com.br.ico",
     "slug": "tlon-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 614,
     "timeMonth": 626,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "Plataforma Uqbar",
@@ -69,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentrysrv.uqbaronline.com.ico",
     "slug": "uqbar-sentry",
     "status": "up",
-    "uptime": "97.97%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.98%",
     "time": 564,
     "timeDay": 769,
     "timeWeek": 597,
