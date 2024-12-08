@@ -4,18 +4,19 @@
     "url": "https://www.tlon.com.br/index.php?option=com_widgets&usrid=0GZYWbGpezpMMLkcOBVUnDeIgxtaTKAOQzh&usrkey=h2nxBiINVtYxDZOXIr3qYufZipZwBt9iQnB",
     "icon": "https://icons.duckduckgo.com/ip3/www.tlon.com.br.ico",
     "slug": "tlon-widget",
-    "status": "up",
-    "uptime": "99.41%",
+    "status": "down",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 574,
     "timeDay": 525,
     "timeWeek": 503,
     "timeMonth": 554,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2024-12-08": 0,
       "2024-09-09": 806,
       "2024-09-08": 708
     }
