@@ -11,7 +11,10 @@ sites:
     url: https://anuarios.uqbar.com.br
   - name: Uqbar Sentry
     url: http://sentrysrv.uqbaronline.com/
-
+  - name: Nocodb
+    url: https://nocodb.uqbaronline.com/
+  - name: Briefer
+    url: https://briefer.uqbaronline.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
