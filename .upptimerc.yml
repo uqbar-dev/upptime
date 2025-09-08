@@ -6,6 +6,8 @@ sites:
   - name: Tlon Widget
     url: https://www.tlon.com.br/index.php?option=com_widgets&usrid=0GZYWbGpezpMMLkcOBVUnDeIgxtaTKAOQzh&usrkey=h2nxBiINVtYxDZOXIr3qYufZipZwBt9iQnB
   - name: Plataforma Uqbar
+    url: https://www.uqbar.com.br/plataforma
+  - name: Home Uqbar
     url: https://www.uqbar.com.br
   - name: Anuarios Uqbar
     url: https://anuarios.uqbar.com.br
