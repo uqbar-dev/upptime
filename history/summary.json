@@ -60,18 +60,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uqbar.com.br.ico",
     "slug": "home-uqbar",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.67%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 1080,
     "timeDay": 1104,
     "timeWeek": 1108,
     "timeMonth": 1080,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-04": 101,
+      "2025-10-03": 19
     }
   },
   {
