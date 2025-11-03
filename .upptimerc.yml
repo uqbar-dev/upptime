@@ -12,7 +12,7 @@ sites:
   - name: Anuarios Uqbar
     url: https://anuarios.uqbar.com.br
   - name: Uqbar Sentry
-    url: http://sentrysrv.uqbaronline.com/
+    url: https://sentrysrv.uqbaronline.com/auth/login/sentry/
   - name: Nocodb
     url: https://nocodb.uqbaronline.com/
   - name: Briefer
