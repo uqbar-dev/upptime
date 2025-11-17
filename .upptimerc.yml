@@ -19,6 +19,8 @@ sites:
     url: https://briefer.uqbaronline.com/
   - name: Japeri
     url: https://japeri.uqbar.com.br/admin/
+  - name: CRM - Vtiger
+    url: https://crm.uqbar.com.br/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
