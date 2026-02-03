@@ -19,7 +19,7 @@ sites:
     url: https://japeri.uqbar.com.br/admin/
   - name: CRM - Vtiger
     url: https://crm.uqbar.com.br/
-  - name: "3rd Party B3 BDI CSV exports | RUN FIDC"
+  - name: 3rd Party - B3 BDI CSV exports - RUN FIDC
     url: https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR
     method: POST
     headers:
