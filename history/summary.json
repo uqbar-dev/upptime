@@ -8,7 +8,7 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.67%",
     "time": 628,
     "timeDay": 238,
@@ -63,7 +63,7 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.95%",
+    "uptimeWeek": "89.31%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "99.77%",
     "time": 401,
@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sentrysrv.uqbaronline.com.ico",
     "slug": "uqbar-sentry",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
@@ -178,11 +178,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/japeri.uqbar.com.br.ico",
     "slug": "japeri",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.62%",
-    "uptimeYear": "96.30%",
+    "uptimeYear": "96.33%",
     "time": 513,
     "timeDay": 314,
     "timeWeek": 356,
@@ -233,9 +233,9 @@
     "url": "https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR",
     "icon": "https://icons.duckduckgo.com/ip3/arquivos.b3.com.br.ico",
     "slug": "3rd-party-b3-bdi-csv-exports-run-fidc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,6 +244,8 @@
     "timeWeek": 10298,
     "timeMonth": 7297,
     "timeYear": 7297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-11": 0
+    }
   }
 ]
