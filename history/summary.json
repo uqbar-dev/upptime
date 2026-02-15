@@ -215,9 +215,9 @@
     "url": "https://crm.uqbar.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.uqbar.com.br.ico",
     "slug": "crm-vtiger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -226,26 +226,28 @@
     "timeWeek": 376,
     "timeMonth": 419,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "3rd Party - B3 BDI CSV exports - RUN FIDC",
     "url": "https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR",
     "icon": "https://icons.duckduckgo.com/ip3/arquivos.b3.com.br.ico",
     "slug": "3rd-party-b3-bdi-csv-exports-run-fidc",
-    "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
-    "time": 8665,
-    "timeDay": 3447,
-    "timeWeek": 10471,
-    "timeMonth": 8665,
-    "timeYear": 8665,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
+    "time": 8484,
+    "timeDay": 4161,
+    "timeWeek": 9983,
+    "timeMonth": 8484,
+    "timeYear": 8484,
     "dailyMinutesDown": {
-      "2026-02-15": 0,
+      "2026-02-15": 32,
       "2026-02-12": 123,
       "2026-02-11": 74
     }
