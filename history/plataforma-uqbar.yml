@@ -1,7 +1,7 @@
 url: https://www.uqbar.com.br/plataforma
-status: up
-code: 200
-responseTime: 282
-lastUpdated: 2026-04-29T23:55:27.330Z
+status: down
+code: 503
+responseTime: 427
+lastUpdated: 2026-04-30T04:01:56.123Z
 startTime: 2023-09-15T12:57:30.369Z
 generator: Upptime <https://github.com/upptime/upptime>
