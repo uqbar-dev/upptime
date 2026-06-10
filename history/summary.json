@@ -68,20 +68,21 @@
     "url": "https://anuarios.uqbar.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/anuarios.uqbar.com.br.ico",
     "slug": "anuarios-uqbar",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
-    "time": 429,
+    "time": 430,
     "timeDay": 410,
     "timeWeek": 751,
     "timeMonth": 686,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2026-02-05": 962,
-      "2026-02-04": 253
+      "2026-02-04": 253,
+      "2026-06-10": 10
     }
   },
   {
@@ -129,13 +130,13 @@
     "url": "https://nocodb.uqbaronline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.uqbaronline.com.ico",
     "slug": "nocodb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
-    "time": 289,
+    "time": 288,
     "timeDay": 119,
     "timeWeek": 256,
     "timeMonth": 232,
@@ -144,7 +145,8 @@
       "2025-06-13": 44,
       "2025-06-14": 85,
       "2025-06-15": 76,
-      "2025-06-16": 88
+      "2025-06-16": 88,
+      "2026-06-10": 5
     }
   },
   {
@@ -152,9 +154,9 @@
     "url": "https://briefer.uqbaronline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/briefer.uqbaronline.com.ico",
     "slug": "briefer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -169,7 +171,8 @@
       "2025-07-08": 103,
       "2025-07-10": 19,
       "2025-07-17": 119,
-      "2026-02-05": 226
+      "2026-02-05": 226,
+      "2026-06-10": 0
     }
   },
   {
