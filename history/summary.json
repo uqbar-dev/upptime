@@ -39,11 +39,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uqbar.com.br.ico",
     "slug": "home-uqbar",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 1173,
     "timeDay": 881,
     "timeWeek": 992,
@@ -233,17 +233,17 @@
     "url": "https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR",
     "icon": "https://icons.duckduckgo.com/ip3/arquivos.b3.com.br.ico",
     "slug": "3rd-party-b3-bdi-csv-exports-run-fidc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.39%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.65%",
-    "time": 3066,
-    "timeDay": 285,
-    "timeWeek": 472,
-    "timeMonth": 476,
-    "timeYear": 3066,
+    "time": 3052,
+    "timeDay": 307,
+    "timeWeek": 450,
+    "timeMonth": 468,
+    "timeYear": 3052,
     "dailyMinutesDown": {
       "2026-02-11": 74,
       "2026-02-12": 123,
@@ -254,7 +254,8 @@
       "2026-03-06": 259,
       "2026-06-10": 143,
       "2026-08-10": 96,
-      "2026-08-13": 66
+      "2026-08-13": 66,
+      "2026-08-14": 0
     }
   }
 ]
