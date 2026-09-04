@@ -1,7 +1,7 @@
 url: https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR
-status: down
-code: 502
-responseTime: 66
-lastUpdated: 2026-09-04T19:29:49.465Z
+status: up
+code: 200
+responseTime: 985
+lastUpdated: 2026-09-04T21:41:58.477Z
 startTime: 2026-02-03T12:23:26.614Z
 generator: Upptime <https://github.com/upptime/upptime>
