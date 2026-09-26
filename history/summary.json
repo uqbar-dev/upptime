@@ -65,9 +65,9 @@
     "url": "https://anuarios.uqbar.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/anuarios.uqbar.com.br.ico",
     "slug": "anuarios-uqbar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
@@ -79,7 +79,8 @@
     "dailyMinutesDown": {
       "2026-02-05": 962,
       "2026-02-04": 253,
-      "2026-06-10": 251
+      "2026-06-10": 251,
+      "2026-09-26": 0
     }
   },
   {
@@ -229,11 +230,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arquivos.b3.com.br.ico",
     "slug": "3rd-party-b3-bdi-csv-exports-run-fidc",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 2587,
     "timeDay": 355,
     "timeWeek": 390,
