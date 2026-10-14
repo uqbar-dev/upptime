@@ -43,7 +43,7 @@
     "timeDay": 543,
     "timeWeek": 349,
     "timeMonth": 412,
-    "timeYear": 1081,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-12-03": 75,
       "2026-01-24": 27,
@@ -72,7 +72,7 @@
     "timeDay": 1051,
     "timeWeek": 717,
     "timeMonth": 786,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2026-02-05": 962,
       "2026-02-04": 253,
@@ -228,17 +228,17 @@
     "url": "https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR",
     "icon": "https://icons.duckduckgo.com/ip3/arquivos.b3.com.br.ico",
     "slug": "3rd-party-b3-bdi-csv-exports-run-fidc",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 2434,
-    "timeDay": 101,
-    "timeWeek": 291,
-    "timeMonth": 356,
-    "timeYear": 2434,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "88.85%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.58%",
+    "time": 2427,
+    "timeDay": 257,
+    "timeWeek": 322,
+    "timeMonth": 363,
+    "timeYear": 2427,
     "dailyMinutesDown": {
       "2026-02-11": 74,
       "2026-02-12": 123,
@@ -254,7 +254,7 @@
       "2026-08-17": 60,
       "2026-09-04": 132,
       "2026-09-22": 167,
-      "2026-10-14": 0
+      "2026-10-14": 161
     }
   }
 ]
