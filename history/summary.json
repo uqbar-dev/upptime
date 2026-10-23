@@ -206,11 +206,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.uqbar.com.br.ico",
     "slug": "crm-vtiger",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.02%",
     "time": 403,
     "timeDay": 369,
     "timeWeek": 378,
@@ -228,17 +228,17 @@
     "url": "https://arquivos.b3.com.br/bdi/table/export/csv?lang=pt-BR",
     "icon": "https://icons.duckduckgo.com/ip3/arquivos.b3.com.br.ico",
     "slug": "3rd-party-b3-bdi-csv-exports-run-fidc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.59%",
-    "time": 2361,
-    "timeDay": 271,
-    "timeWeek": 285,
-    "timeMonth": 345,
-    "timeYear": 2361,
+    "time": 2353,
+    "timeDay": 159,
+    "timeWeek": 256,
+    "timeMonth": 336,
+    "timeYear": 2353,
     "dailyMinutesDown": {
       "2026-02-11": 74,
       "2026-02-12": 123,
@@ -254,7 +254,8 @@
       "2026-08-17": 60,
       "2026-09-04": 132,
       "2026-09-22": 167,
-      "2026-10-14": 161
+      "2026-10-14": 161,
+      "2026-10-23": 0
     }
   }
 ]
